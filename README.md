@@ -1,3 +1,3 @@
 # hello-world
-test, from Github tutorial section.
+Update of the test:
 stuff .. other stuff ... even more stuff!
